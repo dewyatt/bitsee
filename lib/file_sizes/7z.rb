@@ -21,8 +21,8 @@ def file_size_7z(bytes)
 
   # Checksum
   crc = read32le(io)
-  crc_calc = Digest::CRC32.digest(bytes.byteslice(12, 20))
-  return 0 if [crc].pack('L>') != crc_calc
+  crc_calc = Digest::CRC32.checksum(bytes.byteslice(12, 20))
+  return 0 if crc != crc_calc
   
   nh_offset = read64le(io)
   nh_size = read64le(io)

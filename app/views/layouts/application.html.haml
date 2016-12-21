@@ -1,5 +1,10 @@
+- site_name = 'Bitsee'
+- author = 'Daniel Wyatt'
 !!! 5
 %html{lang: 'en'}
+  = render 'layouts/head', site_name: site_name, author: author
   %body
-    = yield
+    = render 'layouts/navbar', site_name: site_name
+    .container-fluid
+      = yield
 

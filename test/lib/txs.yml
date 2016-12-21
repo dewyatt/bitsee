@@ -1,0 +1,159 @@
+4b0cd7e191ef0a14a9b6ab1c5900be534118c20a332ff26407648168d2722a2e:
+  file_md5: 9a9503d906cb9d59901a2552fc2f245c
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+
+b25ba2080d15c1277569bd2fee707a216c4e2ee0a1f479349c2309651c261511:
+  file_md5: a5646ba1df066149381792a60b329e7c
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 800bb22b80e282421e928f225ada93e3
+
+ca933de16b6466e40b37c7ee0ec0dcd9a56bc365a567a5fff81ba4927dd61e23:
+  file_md5: 1ce3f378ff3958e43ef003ae5eb0007e
+  file_mime: image/gif; charset=binary
+  file_ext: gif
+  text_md5: 8386bbc83d924c306d83fe17e83aca86
+
+c0bb963cb3ceffc49059f09db94e3fd73caa3b7a8e005160d49e99020ff6b51a:
+  file_md5: 278d68ba38ac5be13c1ade91adc99286
+  file_mime: image/png; charset=binary
+  file_ext: png
+  text_md5: 54e5c03dc967e79ca9abf080e77266ba
+
+cc9c0b95ac772515235147d8354ec8b8b0763bf842ad16b8b23f855c3dc6a57e:
+  file_md5: ca6ec938beb883480c88b41636f3a067
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: bdd3d77f2d53f192776ccea9bb7d9801
+
+693848d56098a0ad16736bea7f24336c9b47a7f0a6f776659e8d01f00b46af76:
+  file_md5: 7b1beee15bfc3cb8629ca21cd83b5f94
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: b945e630f44cf6ad6f55786714cd748e
+
+6c53cd987119ef797d5adccd76241247988a0a5ef783572a9972e7371c5fb0cc:
+  text_md5: 879293e39b7c4343b4eab3fd640de2c9
+
+4b72a223007eab8a951d43edc171befeabc7b5dca4213770c88e09ba5b936e17:
+  text_md5: 35c207596251c01c494568e50096f9c7
+
+554846025e808df7adec3b1d099e3d4d54b7367cddaa959939cb5ca0fc6abf7b:
+  file_md5: 76ce9f114e0ca57f19faf146b43fac6e
+  file_mime: image/png; charset=binary
+  file_ext: png
+  text_md5: 19af5e9bc9cc2a39cac06b8838e2f755
+
+10cc5d45396ba271659a4b00d2f70c433533227e5f7ea30bb5bd3c8563d7468a:
+  file_md5: 77bc1c10245f097979b84633c7d6725b
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 7ccc62999747e2ca0d841b5127145b7c
+
+# This currently fails due to incorrect parsing of cryptograffiti data.
+#
+#075d1c78883ccb237b374c7ed7f9ff0f90df3308c48f9e7a29348b815326b769:
+#  file_md5: 28bf77d95d9da3a97de3117ccae9ba2f
+#  file_mime: image/jpeg; charset=binary
+#  file_ext: jpg
+#  text_md5: fa086cd5607185340a9fce522cdb033a
+
+01c3af71c12d49260231dcb3cc86d6ff21b3cd90878e9556482ef3b0908abffe:
+  file_md5: 012288a23a2fe3784ff10aba5ae0c521
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 8188d927a50e8a8923c02bb012f43961
+
+06d2528cfabf360c7a8f925d84207d47612cd0ac1ad2efd8aea9758263d9738b:
+  text_md5: 7eaea4e6e028e2b3060d8c795e6f78ca
+
+83f412eb7ff40fe542901186a6d37cba0eb4f8458c574bc02a6f7236c599fe07:
+  file_md5: 469709b240c92861919aa5a989f2dcb0
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+
+4c903a377addab7c1e35a685d3dabc664199e406374b1e5ce2fc59e78fb5b754:
+  file_md5: d1cf0bb3a40d7feb274a0c398108a685
+  file_mime: image/gif; charset=binary
+  file_ext: gif
+  text_md5: aec610f1ed6b7501f9f2c6770d1fab31
+
+0602dd1b375bc71818db0a40d7a14f438499af3eda9056125eb5a1b74bed790b:
+  file_md5: e1363deba9397b5c311652161b90d886
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 55b5e0401372abc72522e127095c49bd
+
+6240f61bbaeac66cd623e921a153addaf5f379a996f2de0f0c6506d628fe3812:
+  file_md5: 6fd4bf0744897d4b2e92a463421a43ac
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: a8573cc35f13e36ad91e2856d58c438d
+
+e2e5b9cf04d93ae5fc1b54e9208b92b668823e014b251f57510e4702661fa1a6:
+  file_md5: be165878b31c08a76ff7bd5edc33a927
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 07373b4a832e44416b5025ddc76fb12d
+
+609d5e0f968c0ab7abc2be21468cfd552483d38b08e6df23d27766eb61b9be3c:
+  file_md5: 56bca1ef8b7df1516061caf8062dd71e
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: a27a2f4fd2ea0e42457509d170c7d89c
+
+eda07af9584391bb6f5ebb07ba57a51b610751fdf06ae49d9166225c36d97d0b:
+  file_md5: f020e47050bbbb282e626b0465e40ad7
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: c126c53f709113f261cb990124ca4008
+
+83df1e5ecc1c7ac455d2855e15cff8fa5771afe2ad1796c8b6b1a8e910e829c4:
+  file_md5: e595b0ae1c599b530adb55fb65c45429
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: ebb195689a4c8e1cd21070c787d1e875
+
+8ec01c5e8f3b57adb13079af3b7e40e7acd3986a5ed14325388405771bd43f9b:
+  file_md5: 35ec6db8aab8d5c5e909c1bc266e3af0
+  file_mime: image/png; charset=binary
+  file_ext: png
+  text_md5: 38fe90e768a0f48f345d8213692f9922
+
+357e8ae080e5a1b554eaec2953e3e6e2e7955f3af4559dd0f1bc6381d56aa183:
+  file_md5: f618a42b807e5dd06acde97dd9cb08e5
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 42ff3aa9f07f30e61c411491b5d51137
+
+c206e8fff656f07b27dac831ef9b956792bae4e76a2cb43f14f49f0298bf2c2f:
+  file_md5: 688a37c5d156eabb443ec18e55e946b1
+  file_mime: image/jpeg; charset=binary
+  file_ext: jpg
+  text_md5: 00184608bfc4c09f68a291c8428595e0
+
+e10c958e199daf71ab31342d40e188380fe84f07abee6a11d02c274d5431902a:
+  text_md5: 67a3997be22704f0067d98860216f50e
+
+7a898b7e6b2145f4f887e1ff890d0b613e3008fbe350aa92662735e3acd0c0bc:
+  text_md5: b58bb83c981e6fd11126c1ed86eae13f
+
+59bd7b2cff5da929581fc9fef31a2fba14508f1477e366befb1eb42a8810a000:
+  text_md5: 8be3723800504bc3e6cf35a16b4165ba
+
+54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713:
+  file_md5: d56d71ecadf2137be09d8b1d35c6c042
+  file_mime: application/pdf; charset=binary
+  file_ext: pdf
+
+5c593b7b71063a01f4128c98e36fb407b00a87454e67b39ad5f8820ebc1b2ad5:
+  file_md5: 37115a9416c35641962c1a8d1f871fd8
+  file_mime: application/x-7z-compressed; charset=binary
+  file_ext: 7z
+
+aaf6773116f0d626b7e66d8191881704b5606ea72612b07905ce34f6c31f0887:
+  file_md5: fdfa61746bb2e07d54a802bf9f77fcbc
+  file_mime: application/x-gzip; charset=binary
+  file_ext: tar.gz
+

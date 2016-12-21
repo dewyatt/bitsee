@@ -1,3 +1,57 @@
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 
+body {
+  background-color: #e0e0e0;
+  padding-top: 50px;
+}
+
+.navbar-nav {
+  @media (min-width: $grid-float-breakpoint) {
+    float: right;
+  }
+}
+
+.secrets {
+  margin-top: 1em;
+}
+
+.secret {
+  display: inline-block;
+  vertical-align: top;
+
+  background-color: #f8f8f8;
+  border: 1px solid #a0a0a0;
+
+  margin: 5px;
+
+  .titlebar {
+    background-color: #f0f0f0;
+    font-size: 0.8em;
+
+    margin-bottom: 5px;
+    padding: 5px 10px;
+  }
+
+  .contents {
+    padding: 5px 10px;
+
+    .file {
+      padding: 5px 10px;
+      border: 2px solid #bb3333;
+    }
+
+    .text pre {
+      max-width: 600px;
+      max-height: 300px;
+      overflow: auto;
+    }
+  }
+}
+
+.navbar-header {
+  .navbar-brand {
+    font-weight: bold;
+  }
+}
+

@@ -52,3 +52,9 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'will_paginate', '3.1.5'
 gem 'bootstrap-will_paginate', '0.0.10'
 
+gem 'faraday', '0.10.0'
+gem 'net-http-persistent', '2.9.4'
+gem 'multi_json', '1.12.1'
+gem 'ruby-filemagic', '0.7.1'
+gem 'digest-crc', '0.4.1'
+

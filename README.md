@@ -66,3 +66,11 @@ Similar to the above, you can run:
 `bundle exec rails utils:scan_blocks BTC_USERNAME=bitcoin BTC_PASSWORD=local321 FILES_PATH=~/bitsee/public/files/ FILES_URL=/files BLOCK_BEGIN=230037 BLOCK_END=230100`
 
 BLOCK_END can also be 0, in which case it will use the current block count. (`bitcoin-cli getblockcount`).
+
+## Donations
+
+If you want to support this software, please consider sending some bitcoins my way.
+
+![Donate](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=bitcoin:1KHcEwfZbMmZqkpsbv2YGBzvkqZFYUjnZW)
+
+1KHcEwfZbMmZqkpsbv2YGBzvkqZFYUjnZW

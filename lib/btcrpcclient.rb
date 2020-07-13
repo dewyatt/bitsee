@@ -43,7 +43,12 @@ class BTCRPCClient
     data = ::MultiJson.decode(resp.body)
     fail 'Missing responses' if calls.length != data.length
     data.sort_by! { |obj| obj['id'] }
-    fail 'Errors in response' if data.any? { |x| x['error'] != nil }
+    # log any error messages
+    data.map { |x| x.dig('error', 'message') }.compact.each do |msg|
+      Rails.logger.info("Error: #{msg}")
+    end
+    # fail if there are any errors (with or without messages)
+    fail 'Errors in response (see logs)' if data.any? { |x| x['error'] != nil }
     data.map!{ |x| x['result'] }
   end
 
